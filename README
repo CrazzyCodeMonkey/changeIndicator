@@ -1,0 +1,5 @@
+changeIndicator was build to create a responsive form to user input.  The original implementation was designed to work with Twitter Bootstrap 2, however will work with other layouts as well.
+
+changeIndicator uses $.data() to store the original value of every named field inside a given selector.  This Plugin specifically looks within the scope of the selector that it is initialized with.  This was done on purpose so that different form sections could be configured independantly depending on need.
+
+changeIndicaotr can create a hidden (or visible if you desire) field that will contain a comma delimeted list of fields that have changed reducing the need to check for changed values in the processing code.

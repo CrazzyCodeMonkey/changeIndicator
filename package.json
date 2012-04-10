@@ -1,0 +1,37 @@
+{
+    "name": "changeIndicator",
+    "version": "1.0.1",
+    "title": "jquery.changeIndicator()",
+    "author": {
+        "name": "Trace Sinclair",
+        "url": "https://github.com/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1.7.x"
+    },
+    "description": "Updates form classes to indicate field value changes",
+    "keywords": [
+        "form",
+        "twitter bootstrap",
+    ],
+    "homepage": "https://github.com/",
+    "maintainers": [
+        {
+            "name": "Trace Sinclair",
+            "url": "https://github.com/"
+        }
+    ],
+    "files": [
+        "jquery.changeIndicator.js"
+    ]
+}
